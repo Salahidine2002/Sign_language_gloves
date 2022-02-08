@@ -23,6 +23,7 @@ J’ai configuré la carte pour se connecter automatiquement à point d’accès
 Connecter la carte au chargeur (attention ce n’est pas le port au milieu), lancer votre point d’accès avec les coordonnées au-dessus, normalement la carte va se connecter apres
 2min ou moins (verifier en cherchant les appareils connectes à votre reseau). Après qu’elle se connecte, lancer VNC, copier l’adresse IP du carte connectée
 (vous pouvez la trouver dans les paramètres de votre point d’accès) et la coller dans la barre de recherche dans vnc, une fenetre s’ouvert pour écrire l’I et le mot de passe :
+
     -	Id : pi
     -	Mot de passe : sign-cs
     
