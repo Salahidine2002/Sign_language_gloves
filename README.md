@@ -21,7 +21,9 @@ Connecter la carte au chargeur (attention ce n’est pas le port au milieu), lan
 (vous pouvez la trouver dans les paramètres de votre point d’accès) et la coller dans la barre de recherche dans vnc, une fenetre s’ouvert pour écrire l’I et le mot de passe :
     -	Id : pi
     -	Mot de passe : sign-cs
-Et voila le bureau de votre mini pc s’ouvre. Accéder à l’explorateur des fichiers, sous le répertoire pi, vous trouver mon programme principal de lecture et d’enregistrement 
+    
+    
+ Et voila le bureau de votre mini pc s’ouvre. Accéder à l’explorateur des fichiers, sous le répertoire pi, vous trouver mon programme principal de lecture et d’enregistrement 
 des donnees fournis par les capteurs. Essayer d’exécuter ce programme (s’il y a une erreur de connexion d’un capteur veuillez fixer tous les fils et relancer le programme).
 Les donnees afficher dans le terminal pendant l’exécution sont respectivement les 4 tensions mesurées des résistances variables, les composantes d’accélération suivant 3 axes,
 les vitesses de rotations suivant 3 axes et du champs magnétique suivant 3 axes (totale de 13 variables).
